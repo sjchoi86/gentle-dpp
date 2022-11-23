@@ -1,5 +1,4 @@
-# gentle-dpp
-A gentle introduction to determinantal point processes (DPPs)
+# A gentle introduction to Determinantal Point Processes (DPPs)
 
 This repo contains:
 1. [Original MAP inference of k-DPP](https://github.com/sjchoi86/gentle-dpp/blob/main/code/demo_dpp.ipynb)
